@@ -1,2 +1,0 @@
-
-perceval git 'https://github.com/amfoss/cms' --from-date '2019-01-28'
