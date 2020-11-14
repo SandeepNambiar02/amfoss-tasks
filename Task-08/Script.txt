@@ -1,3 +1,3 @@
-By running the script given below, we can get fetch the commits of all those repositories using Perceval of amfoss.
+By running the script given below, we can get fetch the commits of all those repositories using Perceval in amfoss.
 
 perceval git 'https://github.com/amfoss/cms' --from-date '2019-01-28'
