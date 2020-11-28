@@ -21,4 +21,4 @@ This is Sandeep, fresher at Amrita school of Engineering(CSE 2020)
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-12">Task-12</a> | Codechef Problem(*Pending*) | 
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-13">Task-13</a> | Circuit Design(*Pending*) | 
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit | 
-| <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-15">Task-15</a> | Project Euler(*Completed till Problem-2) | 
+| <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-15">Task-15</a> | Project Euler(*Completed till Problem-2)* | 
