@@ -10,7 +10,6 @@ This is Sandeep, fresher at Amrita school of Engineering(CSE 2020)
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-01">Task-01</a> | Script to star all repos of amfoss |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-02">Task-02</a> | Register nick in IRC Freenode |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-04">Task-04</a> | Debugging Java Code |
-| <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-05">Task-05</a> | Web-Scraping using Rust (*Incomplete*) |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-09">Task-09</a> | Telegram Web spamming |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-10">Task-10</a> | CS50 | 
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-11">Task-11</a> | Poster Design |
@@ -18,6 +17,7 @@ This is Sandeep, fresher at Amrita school of Engineering(CSE 2020)
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-15">Task-15</a> | Project Euler | 
 |  |  |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-03">Task-03</a> | Hackerrank Problems (*Pending*)| 
+| <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-05">Task-05</a> | Web-Scraping using Rust (*Incomplete*) |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-06">Task-06</a> | Geddit (*Pending*) |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-07">Task-07</a> | Ubiquitous UI (*Pending*) |
 | <a href="https://github.com/SandeepNambiar02/amfoss-tasks/tree/main/Task-08">Task-08</a> | Perceval's Quest(*Pending*) |
